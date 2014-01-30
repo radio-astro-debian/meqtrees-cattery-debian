@@ -1,3 +1,9 @@
+meqtrees-cattery (1.3.1-1precise1) precise; urgency=low
+
+  * new upstream release that fixed python package name
+
+ -- Gijs Molenaar <gijs@pythonic.nl>  Thu, 30 Jan 2014 12:40:53 +0200
+
 meqtrees-cattery (1.3.0-1precise1) precise; urgency=low
 
   * Initial release
