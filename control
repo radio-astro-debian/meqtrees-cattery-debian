@@ -10,5 +10,5 @@ X-Python-Version: 2.7
 Package: python-meqtrees-cattery
 Architecture: any
 Depends: ${python:Depends}, ${misc:Depends}, python-purr, python-numpy,
- python-pyfits, python-pyrap, python-scipy, python-timba
+ python-pyfits, python-pyrap, python-scipy, python-meqtrees-timba
 Description: MeqTrees-based frameworks for simulation and calibration of radio interferometers

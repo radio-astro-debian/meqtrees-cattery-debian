@@ -1,3 +1,15 @@
+meqtrees-cattery (1.3.2-2precise1) precise; urgency=low
+
+  * python-timba should be python-meqtrees-timba
+
+ -- Gijs Molenaar <gijs@pythonic.nl>  Fri, 31 Jan 2014 10:37:35 +0200
+
+meqtrees-cattery (1.3.2-1precise1) precise; urgency=low
+
+  * new upstream release
+
+ -- Gijs Molenaar <gijs@pythonic.nl>  Thu, 30 Jan 2014 17:46:22 +0200
+
 meqtrees-cattery (1.3.1-1precise1) precise; urgency=low
 
   * new upstream release that fixed python package name
