@@ -12,3 +12,8 @@ Architecture: any
 Depends: ${python:Depends}, ${misc:Depends}, python-purr, python-numpy,
  python-pyfits, python-pyrap, python-scipy, python-meqtrees-timba
 Description: MeqTrees-based frameworks for simulation and calibration of radio interferometers
+
+Package: meqtrees
+Architecture: any
+Depends: python-meqtrees-cattery, python-meqtrees-timba
+Description: MeqTrees meta package that depends on all MeqTrees subprojects.
