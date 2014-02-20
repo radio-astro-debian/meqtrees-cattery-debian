@@ -1,3 +1,9 @@
+meqtrees-cattery (1.3.2-4precise1) precise; urgency=low
+
+  * forgot to add package specific install file
+
+ -- Gijs Molenaar <gijs@pythonic.nl>  Thu, 20 Feb 2014 15:11:09 +0200
+
 meqtrees-cattery (1.3.2-3precise1) precise; urgency=low
 
   *  add meqtrees meta package
