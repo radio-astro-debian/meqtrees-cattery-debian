@@ -15,5 +15,6 @@ Description: MeqTrees-based frameworks for simulation and calibration of radio i
 
 Package: meqtrees
 Architecture: any
-Depends: python-meqtrees-cattery, python-meqtrees-timba
+Depends: python-meqtrees-cattery, python-meqtrees-timba, python-tigger,
+ python-pyxis, python-owlcat, casacore-data
 Description: MeqTrees meta package that depends on all MeqTrees subprojects.
